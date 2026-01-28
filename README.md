@@ -1,5 +1,11 @@
 # ai-test-gen
 
+[![npm version](https://img.shields.io/npm/v/ai-test-gen.svg)](https://www.npmjs.com/package/ai-test-gen)
+[![npm downloads](https://img.shields.io/npm/dm/ai-test-gen.svg)](https://www.npmjs.com/package/ai-test-gen)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+AI-powered unit test generation from source files. Supports Jest, Vitest, and Mocha.
+
 Point it at your source files and it writes unit tests for you. Supports Jest, Vitest, and Mocha.
 
 ## Install
