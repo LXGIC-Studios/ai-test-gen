@@ -27,7 +27,7 @@
     "url": "https://github.com/lxgicstudios/ai-test-gen"
   },
   "keywords": [
-    "ai",
+    "ai", "llm", "claude", "anthropic",
     "openai",
     "gpt",
     "test-generation",
