@@ -46,11 +46,9 @@
     "devtools",
     "gpt",
     "jest",
-    "nodejs",
     "npx",
     "openai",
-    "typescript",
-    "javascript"
+    "typescript"
   ],
   "license": "MIT",
   "main": "dist/index.js",
