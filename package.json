@@ -16,7 +16,7 @@
     "openai": "^4.52.0",
     "ora": "^5.4.1"
   },
-  "description": "Generate unit tests from source files using AI. Produces Jest, Vitest, or Mocha tests with meaningful assertions. Works with TypeScript, JavaScript, and React components.",
+  "description": "Generate unit tests from source files using AI. Produces Jest, Vitest, or Mocha tests with meaningful assertions for TS/JS and React.",
   "devDependencies": {
     "typescript": "^5.5.0",
     "@types/node": "^20.14.0"
